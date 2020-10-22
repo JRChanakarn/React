@@ -41,3 +41,8 @@ React NGINX
     - npm run build
     - pm2 restart 0
     - pm2 stop 0
+
+
+# Database
+- Create Database name testing 
+- Import https://drive.google.com/file/d/1evQpZMPl4ynEp6l-P8heoVe4-Udb5u4S/view?usp=sharing
